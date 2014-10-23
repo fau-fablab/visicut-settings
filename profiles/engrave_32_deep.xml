@@ -1,0 +1,10 @@
+<rasterProfile>
+  <DPI>500.0</DPI>
+  <description>A new Laserprofile</description>
+  <name>engrave deep</name>
+  <invertColors>false</invertColors>
+  <colorShift>0</colorShift>
+  <ditherAlgorithm class="com.t_oster.liblasercut.dithering.FloydSteinberg">
+    <progress>0</progress>
+  </ditherAlgorithm>
+</rasterProfile>

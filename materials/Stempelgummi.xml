@@ -1,0 +1,9 @@
+<material>
+  <engraveColor>#000000</engraveColor>
+  <cutColor>#ff0033</cutColor>
+  <color>#ffffff</color>
+  <name>Stempelgummi</name>
+  <materialThicknesses>
+    <float>2.0</float>
+  </materialThicknesses>
+</material>

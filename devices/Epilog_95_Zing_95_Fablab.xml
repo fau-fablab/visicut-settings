@@ -1,0 +1,29 @@
+<laserDevice>
+  <jobSentText>Job was sent as &apos;$jobname&apos;
+Please:
+-Close the lid
+-Turn on the Ventilation
+-And press &apos;start&apos; on the Lasercutter $name</jobSentText>
+  <jobPrefix>VC</jobPrefix>
+  <laserCutter class="com.t_oster.liblasercut.drivers.EpilogZing">
+    <hostname>lasercutter.lab.fablab.uni-erlangen.de</hostname>
+    <port>515</port>
+    <autofocus>false</autofocus>
+    <bedWidth>647.0</bedWidth>
+    <bedHeight>298.0</bedHeight>
+  </laserCutter>
+  <cameraCalibration serialization="custom">
+    <java.awt.geom.AffineTransform>
+      <default>
+        <m00>0.4052192066805846</m00>
+        <m01>0.0</m01>
+        <m02>-18.91022964509395</m02>
+        <m10>0.0</m10>
+        <m11>0.24730290456431536</m11>
+        <m12>-4.698755186721989</m12>
+      </default>
+    </java.awt.geom.AffineTransform>
+  </cameraCalibration>
+  <cameraURL>http://10.188.64.20:9999/image</cameraURL>
+  <name>Epilog_Zing_Fablab</name>
+</laserDevice>

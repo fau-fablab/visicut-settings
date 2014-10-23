@@ -1,0 +1,9 @@
+<vectorProfile>
+  <DPI>500.0</DPI>
+  <description>bending line</description>
+  <name>bend</name>
+  <orderStrategy>FILE</orderStrategy>
+  <useOutline>false</useOutline>
+  <isCut>true</isCut>
+  <width>1.0</width>
+</vectorProfile>

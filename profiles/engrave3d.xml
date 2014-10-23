@@ -1,0 +1,7 @@
+<raster3dProfile>
+  <DPI>500.0</DPI>
+  <description>Engrave while modulating laserpower according to image darkness</description>
+  <name>engrave3d</name>
+  <invertColors>false</invertColors>
+  <colorShift>0</colorShift>
+</raster3dProfile>

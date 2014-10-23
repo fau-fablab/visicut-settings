@@ -1,0 +1,9 @@
+<material>
+  <engraveColor>#000000</engraveColor>
+  <cutColor>#000000</cutColor>
+  <color>#ffffff</color>
+  <name>FAU-Card</name>
+  <materialThicknesses>
+    <float>1.0</float>
+  </materialThicknesses>
+</material>

@@ -1,0 +1,9 @@
+<material>
+  <engraveColor>#635836</engraveColor>
+  <cutColor>#000000</cutColor>
+  <color>#ccccff</color>
+  <name>Fotokarton</name>
+  <materialThicknesses>
+    <float>0.5</float>
+  </materialThicknesses>
+</material>

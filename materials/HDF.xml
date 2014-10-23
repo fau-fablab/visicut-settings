@@ -1,0 +1,10 @@
+<material>
+  <engraveColor>#000000</engraveColor>
+  <cutColor>#ff0033</cutColor>
+  <color>#ffffff</color>
+  <name>HDF</name>
+  <materialThicknesses>
+    <float>3.0</float>
+    <float>5.0</float>
+  </materialThicknesses>
+</material>
