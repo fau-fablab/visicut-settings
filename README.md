@@ -1,40 +1,47 @@
 Visicut settings
 ================
 
-Settings for VisiCut (A userfriendly tool to prepare, save and send Jobs to Lasercutters, see: https://github.com/t-oster/VisiCut) used by the FAU FabLab.
+Settings for [VisiCut](https://github.com/t-oster/VisiCut) (A userfriendly tool to prepare, save and send Jobs to Lasercutters) used by the FAU FabLab.
 
 ![Supported Materials](laserprofiles/)
 -----------------------------------
 
-| Material                | Thickness   | Cut       | Engrave   | Engrave deep  | Engrave 3D  | Mark      | Bend      |
-|-------------------------|-------------|:---------:|:---------:|:-------------:|:-----------:|:---------:|:---------:|
-| Acryl                   | 1.5mm       |✓          |✗          |✗              |✗            |✗          |✓          |
-|                         | 2.0mm       |✓          |✓          |✗              |✗            |✓          |✗          |
-|                         | 3.0mm       |✓          |✓          |✓              |✓            |✓          |✗          |
-|                         | 4.0mm       |✓          |✗          |✗              |✗            |✗          |✗          |
-|                         | 5.0mm       |✓          |✗          |✗              |✗            |✗          |✗          |
-|                         | 6.0mm       |✓          |✓          |✗              |✗            |✗          |✗          |
-|                         | 8.0mm       |✓          |✓          |✗              |✗            |✗          |✗          |
-|                         | 12.0mm      |✓          |✓          |✗              |✗            |✗          |✗          |
-| Balsaholz               | 2.0mm       |✓          |✓          |✗              |✗            |✓          |✗          |
-| Faserholz Buche         | 3.0mm       |✓          |✓          |✗              |✗            |✓          |✗          |
-| Finnpappe               | 2.0mm       |✓          |✓          |✗              |✗            |✓          |✗          |
-| Fotokarton              | 0.5mm       |✓          |✗          |✗              |✗            |✗          |✗          |
-| HDF                     | 3.0mm       |✓          |✓          |✗              |✗            |✗          |✗          |
-|                         | 5.0mm       |✓          |✓          |✗              |✗            |✗          |✗          |
-| Holz Birke              | 4.0mm       |✓          |✓          |✓              |✗            |✗          |✗          |
-| Holz Nussbaum           | 5.0mm       |✓          |✓          |✓              |✗            |✗          |✗          |
-| Kerzenverzierwachs      | 0.5mm       |✓          |✗          |✗              |✗            |✓          |✗          |
-| Kromapappe              | 1.5mm       |✗          |✗          |✗              |✗            |✓          |✗          |
-| Metall (Cermark)        | 0.0mm       |✓          |✓          |✗              |✗            |✗          |✗          |
-| Metall (pulverlackiert) | 0.0mm       |✗          |✓          |✗              |✗            |✗          |✗          |
-| Moosgummi               | 3.0mm       |✓          |✗          |✗              |✗            |✗          |✗          |
-| Papier                  | 80g         |✓          |✗          |✗              |✗            |✗          |✗          |
-| Sperrholz Gabun         | 3.0mm       |✓          |✓          |✗              |✗            |✗          |✗          |
-|                         | 4.0mm       |✓          |✓          |✓              |✗            |✓          |✗          |
-| Sperrholz Gabun (krumm) | 4.0mm       |✓          |✓          |✓              |✗            |✓          |✗          |
-| Stempelgummi            | 2.0mm       |✓          |✗          |✗              |✗            |✗          |✗          |
-| Wellpappe               | 3.0mm       |✓          |✗          |✗              |✗            |✗          |✗          |
+| Material                  | Thickness   | Cut       | Engrave   | Engrave deep  | Engrave 3D  | Mark      | Bend      |
+|---------------------------|-------------|:---------:|:---------:|:-------------:|:-----------:|:---------:|:---------:|
+| Acryl                     | 1.5mm       |✓          |✗          |✗              |✗            |✗          |✓          |
+|                           | 2.0mm       |✓          |✓          |✗              |✗            |✓          |✗          |
+|                           | 3.0mm       |✓          |✓          |✓              |✓            |✓          |✗          |
+|                           | 4.0mm       |✓          |✗          |✗              |✗            |✗          |✗          |
+|                           | 5.0mm       |✓          |✗          |✗              |✗            |✗          |✗          |
+|                           | 6.0mm       |✓          |✓          |✗              |✗            |✗          |✗          |
+|                           | 8.0mm       |✓          |✓          |✗              |✗            |✗          |✗          |
+|                           | 12.0mm      |✓          |✓          |✗              |✗            |✗          |✗          |
+| Balsaholz                 | 2.0mm       |✓          |✓          |✗              |✗            |✓          |✗          |
+| Dynamask Lötstopplaminat  | 0.1mm       |✗          |✓          |✗              |✗            |✗          |✗          |
+| Edelstahlblech            | 0.1mm       |✓          |✗          |✗              |✗            |✗          |✗          |
+| Faserholz Buche           | 3.0mm       |✓          |✓          |✗              |✗            |✓          |✗          |
+| Filz                      | 3.0mm       |✓          |✗          |✗              |✗            |✗          |✗          |
+| Finnpappe                 | 2.0mm       |✓          |✓          |✗              |✗            |✓          |✗          |
+| Fotokarton                | 0.5mm       |✓          |✗          |✗              |✗            |✗          |✗          |
+| HDF                       | 3.0mm       |✓          |✓          |✗              |✗            |✗          |✗          |
+|                           | 5.0mm       |✓          |✓          |✗              |✗            |✗          |✗          |
+| Holz Birke                | 4.0mm       |✓          |✓          |✓              |✗            |✗          |✗          |
+| Holz Kiefer               | 4.0mm       |✓          |✓          |✓              |✗            |✗          |✗          |
+| Holz Nussbaum             | 5.0mm       |✓          |✓          |✓              |✗            |✗          |✗          |
+| Kerzenverzierwachs        | 0.5mm       |✓          |✗          |✗              |✗            |✓          |✗          |
+| Kromapappe                | 1.5mm       |✗          |✗          |✗              |✗            |✓          |✗          |
+| Metall (Cermark)          | 0.0mm       |✓          |✓          |✗              |✗            |✗          |✗          |
+| Metall (pulverlackiert)   | 0.0mm       |✗          |✓          |✗              |✗            |✗          |✗          |
+| Moosgummi                 | 3.0mm       |✓          |✗          |✗              |✗            |✗          |✗          |
+| Mylar                     | 0.0mm       |✓          |✓          |✗              |✗            |✗          |✗          |
+| Papier                    | 80g         |✓          |✗          |✗              |✗            |✗          |✗          |
+| Sperrholz Gabun           | 3.0mm       |✓          |✓          |✗              |✗            |✗          |✗          |
+|                           | 4.0mm       |✓          |✓          |✓              |✗            |✓          |✗          |
+| Stempelgummi              | 2.0mm       |✓          |✗          |✗              |✗            |✗          |✗          |
+| Thermostreifen (FAU Card) | 0.1mm       |✗          |✓          |✗              |✗            |✗          |✗          |
+| Wellpappe                 | 3.0mm       |✓          |✗          |✗              |✗            |✗          |✗          |
+
+```Attention: For some profiles there are only the default settings of Power: 20, Speed 100```
 
 ![Mappings](mappings/)
 --------------------
@@ -52,3 +59,25 @@ Settings for VisiCut (A userfriendly tool to prepare, save and send Jobs to Lase
 * engrave 3d
 * engrave deep
 * mark
+
+Instructions
+------------
+
+ * Delete all settings before you clone this repo:
+    ```rm -r ~/.visicut/```
+
+  Clone the repo to .visicut:
+    ```git clone git@github.com:fau-fablab/visicut-settings.git .visicut```
+
+
+ * To update the settings run:
+
+    ```cd ~/.visicut```
+
+    ```git pull```
+
+ * Before you commit changes, please check the settings by running
+    ```git diff```
+  inside the repository. Check also, that the settings are working properly.
+  Then do a simple git commit.
+
