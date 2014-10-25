@@ -5,20 +5,20 @@
   <potracePath>potrace</potracePath>
   <mkbitmapPath>mkbitmap</mkbitmapPath>
   <windowBounds>
-    <x>271</x>
-    <y>139</y>
-    <width>1452</width>
-    <height>834</height>
+    <x>-4</x>
+    <y>-3</y>
+    <width>1928</width>
+    <height>1157</height>
   </windowBounds>
   <useThicknessAsFocusOffset>true</useThicknessAsFocusOffset>
   <recentFiles>
+    <string>/tmp/ink_ext_XXXXXX.svgOSIAOX.svg</string>
     <string>/home/fablab/Dateifreigabe/0_Temp_wird_regelmaessig_geloescht/LaserScriptFocustest.ls</string>
     <string>/media/JANICK-16/Auffangbehälter.svg</string>
-    <string>/tmp/ink_ext_XXXXXX.svgOSIAOX.svg</string>
     <string>/tmp/ink_ext_XXXXXX.svgGEJUNX.svg</string>
     <string>/tmp/ink_ext_XXXXXX.svgJLA5NX.svg</string>
   </recentFiles>
-  <lastMaterial>HDF</lastMaterial>
+  <lastMaterial>Sperrholz Gabun</lastMaterial>
   <lastLaserDevice>Epilog_Zing_Fablab</lastLaserDevice>
   <availableImporters>
     <string>com.t_oster.visicut.model.graphicelements.svgsupport.SVGImporter</string>
