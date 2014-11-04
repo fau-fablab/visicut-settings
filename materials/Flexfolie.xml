@@ -1,0 +1,10 @@
+<material>
+  <description>Poli-Flex Flexfolie für T-Shirts, gelasertes wird von der Heißpresse nicht übertragen</description>
+  <engraveColor>#000000</engraveColor>
+  <cutColor>#000000</cutColor>
+  <color>#ffffff</color>
+  <name>Flexfolie</name>
+  <materialThicknesses>
+    <float>0.0</float>
+  </materialThicknesses>
+</material>

@@ -1,0 +1,23 @@
+<visicutPreferences>
+  <defaultMapping>schneide rot, graviere Rest, ignoriere blau, markiere grün</defaultMapping>
+  <disableSandbox>false</disableSandbox>
+  <useFilenamesForJobs>false</useFilenamesForJobs>
+  <windowBounds>
+    <x>233</x>
+    <y>157</y>
+    <width>1526</width>
+    <height>834</height>
+  </windowBounds>
+  <useThicknessAsFocusOffset>false</useThicknessAsFocusOffset>
+  <recentFiles>
+    <string>/tmp/ink_ext_XXXXXX.svg251OOX.svg</string>
+    <string>/tmp/ink_ext_XXXXXX.svgWC2NOX.svg</string>
+    <string>/tmp/ink_ext_XXXXXX.svgEVGROX.svg</string>
+    <string>/tmp/ink_ext_XXXXXX.svgDS9UOX.svg</string>
+    <string>/tmp/ink_ext_XXXXXX.svg5T6SOX.svg</string>
+  </recentFiles>
+  <lastMaterial>Faserholz Buche</lastMaterial>
+  <lastLaserDevice>Epilog_Zing_Fablab</lastLaserDevice>
+  <availableImporters/>
+  <editSettingsBeforeExecuting>false</editSettingsBeforeExecuting>
+</visicutPreferences>
