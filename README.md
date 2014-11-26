@@ -81,3 +81,7 @@ Instructions
   inside the repository. Check also, that the settings are working properly.
   Then do a simple git commit.
 
+"Insider info"
+--------------
+
+Because of frequent broken visicam settings, we do a daily ```git checkout``` for devices/Epilog_95_Zing_95_Fablab.xml to get fine visicam settings.
