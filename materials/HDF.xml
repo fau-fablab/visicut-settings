@@ -4,6 +4,8 @@
   <color>#ffffff</color>
   <name>HDF</name>
   <materialThicknesses>
+    <float>1.0</float>
+    <float>1.5</float>
     <float>3.0</float>
     <float>5.0</float>
   </materialThicknesses>
