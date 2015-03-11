@@ -1,13 +1,10 @@
 <material>
+  <description>test</description>
   <engraveColor>#000000</engraveColor>
-  <cutColor>#ff0033</cutColor>
+  <cutColor>#000000</cutColor>
   <color>#ffffff</color>
-  <name>HDF</name>
+  <name>carbon</name>
   <materialThicknesses>
-    <float>1.0</float>
-    <float>1.5</float>
     <float>3.0</float>
-    <float>4.0</float>
-    <float>5.0</float>
   </materialThicknesses>
 </material>

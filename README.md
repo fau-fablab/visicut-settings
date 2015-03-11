@@ -23,6 +23,7 @@ Settings for [VisiCut](https://github.com/t-oster/VisiCut) (A userfriendly tool 
 | Filz                      | 3.0mm       |✓          |✗          |✗              |✗            |✗          |✗          |
 | Finnpappe                 | 2.0mm       |✓          |✓          |✗              |✗            |✓          |✗          |
 | Fotokarton                | 0.5mm       |✓          |✗          |✗              |✗            |✗          |✗          |
+| Graupappe                 | 3.0mm       |✓          |✗          |✗              |✗            |✗          |✗          |
 | HDF                       | 3.0mm       |✓          |✓          |✗              |✗            |✗          |✗          |
 |                           | 5.0mm       |✓          |✓          |✗              |✗            |✗          |✗          |
 | Holz Birke                | 4.0mm       |✓          |✓          |✓              |✗            |✗          |✗          |
@@ -64,7 +65,7 @@ Instructions
 ------------
 
  * Delete all settings before you clone this repo:
-    ```rm -r ~/.visicut/```
+    ```rm -rf ~/.visicut/```
 
   Clone the repo to .visicut:
     ```git clone git@github.com:fau-fablab/visicut-settings.git .visicut```
@@ -78,6 +79,8 @@ Instructions
 
  * Before you commit changes, please check the settings by running
     ```git diff```
+   and
+    ```git status```
   inside the repository. Check also, that the settings are working properly.
   Then do a simple git commit.
 

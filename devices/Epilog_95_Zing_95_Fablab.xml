@@ -15,12 +15,12 @@ Please:
   <cameraCalibration serialization="custom">
     <java.awt.geom.AffineTransform>
       <default>
-        <m00>0.4103594080338267</m00>
+        <m00>0.4125398512221042</m00>
         <m01>0.0</m01>
-        <m02>-24.074418604651186</m02>
+        <m02>-26.12752391073326</m02>
         <m10>0.0</m10>
-        <m11>0.2572509457755359</m11>
-        <m12>-10.97604035308953</m12>
+        <m11>0.25692695214105793</m11>
+        <m12>-12.418136020151138</m12>
       </default>
     </java.awt.geom.AffineTransform>
   </cameraCalibration>

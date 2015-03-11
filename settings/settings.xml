@@ -2,21 +2,22 @@
   <defaultMapping>schneide rot, graviere Rest, ignoriere blau, markiere grün</defaultMapping>
   <disableSandbox>false</disableSandbox>
   <useFilenamesForJobs>false</useFilenamesForJobs>
+  <labName>FAU FabLab</labName>
   <windowBounds>
-    <x>233</x>
-    <y>157</y>
-    <width>1526</width>
-    <height>834</height>
+    <x>220</x>
+    <y>151</y>
+    <width>1479</width>
+    <height>846</height>
   </windowBounds>
-  <useThicknessAsFocusOffset>false</useThicknessAsFocusOffset>
+  <useThicknessAsFocusOffset>true</useThicknessAsFocusOffset>
   <recentFiles>
-    <string>/tmp/ink_ext_XXXXXX.svg251OOX.svg</string>
-    <string>/tmp/ink_ext_XXXXXX.svgWC2NOX.svg</string>
-    <string>/tmp/ink_ext_XXXXXX.svgEVGROX.svg</string>
-    <string>/tmp/ink_ext_XXXXXX.svgDS9UOX.svg</string>
-    <string>/tmp/ink_ext_XXXXXX.svg5T6SOX.svg</string>
+    <string>/tmp/ink_ext_XXXXXX.svgUCGZUX.svg</string>
+    <string>/tmp/ink_ext_XXXXXX.svgSVKRVX.svg</string>
+    <string>/tmp/ink_ext_XXXXXX.svg7YNWUX.svg</string>
+    <string>/tmp/ink_ext_XXXXXX.svgG31XUX.svg</string>
+    <string>/tmp/ink_ext_XXXXXX.svg3YM5UX.svg</string>
   </recentFiles>
-  <lastMaterial>Aluminium Cermark LMM-6000 2</lastMaterial>
+  <lastMaterial>HDF</lastMaterial>
   <lastLaserDevice>Epilog_Zing_Fablab</lastLaserDevice>
   <availableImporters/>
   <editSettingsBeforeExecuting>false</editSettingsBeforeExecuting>

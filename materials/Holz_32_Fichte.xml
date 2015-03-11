@@ -1,0 +1,10 @@
+<material>
+  <description>Fichtenholz</description>
+  <engraveColor>#000000</engraveColor>
+  <cutColor>#ff0000</cutColor>
+  <color>#ffffff</color>
+  <name>Holz Fichte</name>
+  <materialThicknesses>
+    <float>17.0</float>
+  </materialThicknesses>
+</material>

@@ -1,7 +1,7 @@
 <linked-list>
   <PowerSpeedFocusProperty>
-    <power>30</power>
-    <speed>100</speed>
-    <focus>0.0</focus>
+    <power>100</power>
+    <speed>80</speed>
+    <focus>-9.2</focus>
   </PowerSpeedFocusProperty>
 </linked-list>
