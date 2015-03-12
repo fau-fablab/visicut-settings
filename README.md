@@ -6,6 +6,8 @@ Settings for [VisiCut](https://github.com/t-oster/VisiCut) (A userfriendly tool 
 ![Supported Materials](laserprofiles/)
 -----------------------------------
 
+this table is not up-to-date!
+
 | Material                  | Thickness   | Cut       | Engrave   | Engrave deep  | Engrave 3D  | Mark      | Bend      |
 |---------------------------|-------------|:---------:|:---------:|:-------------:|:-----------:|:---------:|:---------:|
 | Acryl                     | 1.5mm       |✓          |✗          |✗              |✗            |✗          |✓          |
@@ -82,9 +84,18 @@ Instructions
    and
     ```git status```
   inside the repository. Check also, that the settings are working properly.
-  Then do a simple git commit.
+
+*  Then add and commit everything:
+    ``` git add -A```
+    ``` git commit -A```
 
 "Insider info"
 --------------
 
 Because of frequent broken visicam settings, we do a daily ```git checkout``` for devices/Epilog_95_Zing_95_Fablab.xml to get fine visicam settings.
+
+Pushing from ws01 does not work directly, but you can add it as a remote on your own machine:
+
+```git remote add ws01 MYUSERNAME@ws01.lab.fablab.uni-erlangen.de:/home/fablab/.visicut```
+```git pull ws01 master```
+```git push origin master```
