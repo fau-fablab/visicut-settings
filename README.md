@@ -67,35 +67,47 @@ Instructions
 ------------
 
  * Delete all settings before you clone this repo:
-    ```rm -rf ~/.visicut/```
+    
+    ```bash
+    rm -rf ~/.visicut/
+    ```
 
   Clone the repo to .visicut:
-    ```git clone git@github.com:fau-fablab/visicut-settings.git .visicut```
+    
+    ```bash
+    git clone git@github.com:fau-fablab/visicut-settings.git .visicut
+    ```
 
 
  * To update the settings run:
 
-    ```cd ~/.visicut```
-
-    ```git pull```
+    ```bash
+    cd ~/.visicut
+    git pull
+    ```
 
  * Before you commit changes, please check the settings by running
-    ```git diff```
+    `git diff`
    and
-    ```git status```
+    `git status`
   inside the repository. Check also, that the settings are working properly.
 
 *  Then add and commit everything:
-    ``` git add -A```
-    ``` git commit -A```
+    
+    ```bash
+    git add -A
+    git commit -A
+    ```
 
 "Insider info"
 --------------
 
-Because of frequent broken visicam settings, we do a daily ```git checkout``` for devices/Epilog_95_Zing_95_Fablab.xml to get fine visicam settings.
+Because of frequent broken visicam settings, we do a daily `git checkout` for devices/Epilog_95_Zing_95_Fablab.xml to get fine visicam settings.
 
 Pushing from ws01 does not work directly, but you can add it as a remote on your own machine:
 
-```git remote add ws01 MYUSERNAME@ws01.lab.fablab.uni-erlangen.de:/home/fablab/.visicut```
-```git pull ws01 master```
-```git push origin master```
+```bash
+git remote add ws01 MYUSERNAME@ws01.lab.fablab.uni-erlangen.de:/home/fablab/.visicut
+git pull ws01 master
+git push origin master
+```
