@@ -112,7 +112,7 @@
   <com.t__oster.visicut.model.mapping.MappingSet>
     <default>
       <description>A new created mapping</description>
-      <name>schneide rot, graviere Rest, ignoriere blau, markiere grün</name>
+      <name>schneide rot, graviere Rest, ignoriere blau, markiere gruen</name>
     </default>
   </com.t__oster.visicut.model.mapping.MappingSet>
 </com.t__oster.visicut.model.mapping.MappingSet>

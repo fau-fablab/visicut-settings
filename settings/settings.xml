@@ -1,24 +1,26 @@
 <visicutPreferences>
-  <defaultMapping>schneide rot, graviere Rest, ignoriere blau, markiere grün</defaultMapping>
+  <defaultMapping>schneide rot, graviere Rest, ignoriere blau, markiere gruen</defaultMapping>
   <disableSandbox>false</disableSandbox>
   <useFilenamesForJobs>false</useFilenamesForJobs>
   <labName>FAU FabLab</labName>
   <windowBounds>
-    <x>220</x>
-    <y>151</y>
-    <width>1479</width>
-    <height>846</height>
+    <x>24</x>
+    <y>186</y>
+    <width>1802</width>
+    <height>817</height>
   </windowBounds>
-  <useThicknessAsFocusOffset>true</useThicknessAsFocusOffset>
+  <useThicknessAsFocusOffset>false</useThicknessAsFocusOffset>
   <recentFiles>
-    <string>/tmp/ink_ext_XXXXXX.svgUCGZUX.svg</string>
-    <string>/tmp/ink_ext_XXXXXX.svgSVKRVX.svg</string>
-    <string>/tmp/ink_ext_XXXXXX.svg7YNWUX.svg</string>
-    <string>/tmp/ink_ext_XXXXXX.svgG31XUX.svg</string>
-    <string>/tmp/ink_ext_XXXXXX.svg3YM5UX.svg</string>
+    <string>/tmp/ink_ext_XXXXXX.svgW48LXX.svg</string>
+    <string>/tmp/ink_ext_XXXXXX.svgNMOHXX.svg</string>
+    <string>/tmp/ink_ext_XXXXXX.svgCNCNXX.svg</string>
+    <string>/tmp/ink_ext_XXXXXX.svg8D4JXX.svg</string>
+    <string>/tmp/ink_ext_XXXXXX.svgG8WJXX.svg</string>
   </recentFiles>
-  <lastMaterial>HDF</lastMaterial>
+  <lastMaterial>Acryl</lastMaterial>
   <lastLaserDevice>Epilog_Zing_Fablab</lastLaserDevice>
   <availableImporters/>
   <editSettingsBeforeExecuting>false</editSettingsBeforeExecuting>
+  <laserCutterTags>lasercutter, lasercut, laser cutter, laser cut</laserCutterTags>
+  <supportedExtensions>svg, plf, dxf, eps, gcode</supportedExtensions>
 </visicutPreferences>

@@ -49,7 +49,7 @@ this table is not up-to-date!
 ![Mappings](mappings/)
 --------------------
 
-* schneide_32_rot_44__32_graviere_32_Rest_44__32_ignoriere_32_blau_44__32_markiere_32_gr_252_n.xml
+* [schneide_32_rot_44__32_graviere_32_Rest_44__32_ignoriere_32_blau_44__32_markiere_32_gruen.xml](schneide_32_rot_44__32_graviere_32_Rest_44__32_ignoriere_32_blau_44__32_markiere_32_gruen.xml)
   * cut red, engrave all other colors, ignore blue, mark green
 
 ![Profiles](profiles/)
