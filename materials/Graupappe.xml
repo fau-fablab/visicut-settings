@@ -4,6 +4,7 @@
   <color>#fefefe</color>
   <name>Graupappe</name>
   <materialThicknesses>
+    <float>1.0</float>
     <float>2.5</float>
     <float>3.0</float>
   </materialThicknesses>
