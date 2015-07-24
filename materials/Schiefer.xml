@@ -1,0 +1,9 @@
+<material>
+  <engraveColor>#fefefe</engraveColor>
+  <cutColor>#ff0000</cutColor>
+  <color>#010101</color>
+  <name>Schiefer</name>
+  <materialThicknesses>
+    <float>5.0</float>
+  </materialThicknesses>
+</material>
