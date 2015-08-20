@@ -3,11 +3,14 @@
   <disableSandbox>false</disableSandbox>
   <useFilenamesForJobs>false</useFilenamesForJobs>
   <labName>FAU FabLab</labName>
+  <enableQRCodes>false</enableQRCodes>
+  <fastQRCodes>false</fastQRCodes>
+  <fabqrActive>false</fabqrActive>
   <windowBounds>
-    <x>24</x>
-    <y>186</y>
-    <width>1802</width>
-    <height>817</height>
+    <x>-4</x>
+    <y>-3</y>
+    <width>1928</width>
+    <height>1156</height>
   </windowBounds>
   <useThicknessAsFocusOffset>false</useThicknessAsFocusOffset>
   <recentFiles>

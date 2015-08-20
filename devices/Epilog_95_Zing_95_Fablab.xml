@@ -9,21 +9,25 @@ Please:
     <hostname>lasercutter.lab.fablab.uni-erlangen.de</hostname>
     <port>515</port>
     <autofocus>false</autofocus>
-    <bedWidth>647.0</bedWidth>
-    <bedHeight>340.0</bedHeight>
+    <bedWidth>609.0</bedWidth>
+    <bedHeight>308.0</bedHeight>
   </laserCutter>
   <cameraCalibration serialization="custom">
     <java.awt.geom.AffineTransform>
       <default>
-        <m00>0.4039542143600417</m00>
+        <m00>0.4545667447306793</m00>
         <m01>0.0</m01>
-        <m02>-17.639334027055185</m02>
+        <m02>-59.69976580796259</m02>
         <m10>0.0</m10>
-        <m11>0.24727272727272728</m11>
-        <m12>-2.719999999999999</m12>
+        <m11>0.2484774665042631</m11>
+        <m12>-16.482338611449457</m12>
       </default>
     </java.awt.geom.AffineTransform>
   </cameraCalibration>
   <cameraURL>http://10.188.64.20:9999/image</cameraURL>
+  <cameraTiming>0</cameraTiming>
+  <projectorTiming>0</projectorTiming>
+  <projectorWidth>0</projectorWidth>
+  <projectorHeight>0</projectorHeight>
   <name>Epilog_Zing_Fablab</name>
 </laserDevice>
