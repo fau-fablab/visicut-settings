@@ -25,9 +25,11 @@ Please:
     </java.awt.geom.AffineTransform>
   </cameraCalibration>
   <cameraURL>http://10.188.64.20:9999/image</cameraURL>
+  <!-- folgende Einstellungen versteht die alte Visicut Version nicht, die gerade auf Windows läuft! Deshalb auskommentiert.
   <cameraTiming>0</cameraTiming>
   <projectorTiming>0</projectorTiming>
   <projectorWidth>0</projectorWidth>
   <projectorHeight>0</projectorHeight>
+  -->
   <name>Epilog_Zing_Fablab</name>
 </laserDevice>
