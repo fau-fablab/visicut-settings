@@ -1,0 +1,9 @@
+<material>
+  <engraveColor>#000000</engraveColor>
+  <cutColor>#ff0000</cutColor>
+  <color>#ffffff</color>
+  <name>Multiplex lackiert gravieren</name>
+  <materialThicknesses>
+    <float>0.0</float>
+  </materialThicknesses>
+</material>
