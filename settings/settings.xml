@@ -7,18 +7,18 @@
   <fastQRCodes>false</fastQRCodes>
   <fabqrActive>false</fabqrActive>
   <windowBounds>
-    <x>-4</x>
-    <y>-3</y>
-    <width>1928</width>
-    <height>1156</height>
+    <x>386</x>
+    <y>184</y>
+    <width>1145</width>
+    <height>834</height>
   </windowBounds>
-  <useThicknessAsFocusOffset>false</useThicknessAsFocusOffset>
+  <useThicknessAsFocusOffset>true</useThicknessAsFocusOffset>
   <recentFiles>
-    <string>/tmp/ink_ext_XXXXXX.svgW48LXX.svg</string>
-    <string>/tmp/ink_ext_XXXXXX.svgNMOHXX.svg</string>
-    <string>/tmp/ink_ext_XXXXXX.svgCNCNXX.svg</string>
-    <string>/tmp/ink_ext_XXXXXX.svg8D4JXX.svg</string>
-    <string>/tmp/ink_ext_XXXXXX.svgG8WJXX.svg</string>
+    <string>/tmp/ink_ext_XXXXXX.svg5RXEBZ.svg</string>
+    <string>/tmp/ink_ext_XXXXXX.svg5SZDBZ.svg</string>
+    <string>/tmp/ink_ext_XXXXXX.svgENAKBZ.svg</string>
+    <string>/tmp/ink_ext_XXXXXX.svgUNCEBZ.svg</string>
+    <string>/tmp/ink_ext_XXXXXX.svgLSIIBZ.svg</string>
   </recentFiles>
   <lastMaterial>Acryl</lastMaterial>
   <lastLaserDevice>Epilog_Zing_Fablab</lastLaserDevice>

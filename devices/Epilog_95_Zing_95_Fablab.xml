@@ -1,4 +1,5 @@
 <laserDevice>
+  <originBottomLeft>false</originBottomLeft>
   <jobSentText>Job was sent as &apos;$jobname&apos;
 Please:
 -Close the lid
@@ -12,24 +13,53 @@ Please:
     <bedWidth>609.0</bedWidth>
     <bedHeight>308.0</bedHeight>
   </laserCutter>
-  <cameraCalibration serialization="custom">
-    <java.awt.geom.AffineTransform>
-      <default>
-        <m00>0.4545667447306793</m00>
-        <m01>0.0</m01>
-        <m02>-59.69976580796259</m02>
-        <m10>0.0</m10>
-        <m11>0.2484774665042631</m11>
-        <m12>-16.482338611449457</m12>
-      </default>
-    </java.awt.geom.AffineTransform>
-  </cameraCalibration>
-  <cameraURL>http://10.188.64.20:9999/image</cameraURL>
-  <!-- folgende Einstellungen versteht die alte Visicut Version nicht, die gerade auf Windows läuft! Deshalb auskommentiert.
+  <cameraHomography>
+    <referencePoints>
+      <java.awt.geom.Point2D_-Double>
+        <x>121.80000000000001</x>
+        <y>61.6</y>
+      </java.awt.geom.Point2D_-Double>
+      <java.awt.geom.Point2D_-Double>
+        <x>487.20000000000005</x>
+        <y>246.4</y>
+      </java.awt.geom.Point2D_-Double>
+    </referencePoints>
+    <viewPoints>
+      <java.awt.geom.Point2D_-Double>
+        <x>399.28078310149414</x>
+        <y>314.24313725490197</y>
+      </java.awt.geom.Point2D_-Double>
+      <java.awt.geom.Point2D_-Double>
+        <x>1203.1231324059763</x>
+        <y>1057.9725490196079</y>
+      </java.awt.geom.Point2D_-Double>
+    </viewPoints>
+    <homography>
+      <A>
+        <double-array>
+          <double>2.1998969603297267</double>
+          <double>0.0</double>
+          <double>131.33333333333343</double>
+        </double-array>
+        <double-array>
+          <double>0.0</double>
+          <double>4.0245098039215685</double>
+          <double>66.33333333333334</double>
+        </double-array>
+        <double-array>
+          <double>0.0</double>
+          <double>0.0</double>
+          <double>1.0</double>
+        </double-array>
+      </A>
+      <m>3</m>
+      <n>3</n>
+    </homography>
+  </cameraHomography>
+  <cameraURL>http://127.0.0.1:9999/image</cameraURL>
   <cameraTiming>0</cameraTiming>
   <projectorTiming>0</projectorTiming>
   <projectorWidth>0</projectorWidth>
   <projectorHeight>0</projectorHeight>
-  -->
   <name>Epilog_Zing_Fablab</name>
 </laserDevice>

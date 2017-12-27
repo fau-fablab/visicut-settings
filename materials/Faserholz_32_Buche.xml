@@ -5,6 +5,7 @@
   <color>#e8dacb</color>
   <name>Faserholz Buche</name>
   <materialThicknesses>
+    <float>2.0</float>
     <float>3.0</float>
   </materialThicknesses>
 </material>
