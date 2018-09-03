@@ -4,6 +4,7 @@
   <color>#ffffff</color>
   <name>Holz Nussbaum</name>
   <materialThicknesses>
+    <float>4.0</float>
     <float>5.0</float>
   </materialThicknesses>
 </material>

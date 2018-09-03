@@ -10,6 +10,7 @@ Please:
     <hostname>lasercutter.lab.fablab.uni-erlangen.de</hostname>
     <port>515</port>
     <autofocus>false</autofocus>
+    <hideSoftwareFocus>false</hideSoftwareFocus>
     <bedWidth>609.0</bedWidth>
     <bedHeight>308.0</bedHeight>
   </laserCutter>

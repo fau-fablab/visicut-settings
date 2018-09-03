@@ -1,27 +1,21 @@
 <visicutPreferences>
   <defaultMapping>schneide rot, graviere Rest, ignoriere blau, markiere gruen</defaultMapping>
-  <disableSandbox>false</disableSandbox>
+  <disableSandbox>true</disableSandbox>
   <useFilenamesForJobs>false</useFilenamesForJobs>
   <labName>FAU FabLab</labName>
   <enableQRCodes>false</enableQRCodes>
   <fastQRCodes>false</fastQRCodes>
   <fabqrActive>false</fabqrActive>
-  <windowBounds>
-    <x>386</x>
-    <y>184</y>
-    <width>1145</width>
-    <height>834</height>
-  </windowBounds>
-  <useThicknessAsFocusOffset>true</useThicknessAsFocusOffset>
+  <useThicknessAsFocusOffset>false</useThicknessAsFocusOffset>
   <recentFiles>
-    <string>/tmp/ink_ext_XXXXXX.svg5RXEBZ.svg</string>
-    <string>/tmp/ink_ext_XXXXXX.svg5SZDBZ.svg</string>
-    <string>/tmp/ink_ext_XXXXXX.svgENAKBZ.svg</string>
-    <string>/tmp/ink_ext_XXXXXX.svgUNCEBZ.svg</string>
-    <string>/tmp/ink_ext_XXXXXX.svgLSIIBZ.svg</string>
+    <string>/tmp/temp-visicut-HwFJ1u/default.de.svg</string>
+    <string>/tmp/temp-visicut-Mwhpp3/default.de.svg</string>
+    <string>/tmp/temp-visicut-5JhMAS/default.de.svg</string>
+    <string>/tmp/temp-visicut-IT1mL7/default.de.svg</string>
+    <string>/tmp/temp-visicut-3mhEaR/default.de.svg</string>
   </recentFiles>
   <lastMaterial>Acryl</lastMaterial>
-  <lastLaserDevice>Epilog_Zing_Fablab</lastLaserDevice>
+  <lastLaserDevice>LTT iLaser 4000</lastLaserDevice>
   <availableImporters/>
   <editSettingsBeforeExecuting>false</editSettingsBeforeExecuting>
   <laserCutterTags>lasercutter, lasercut, laser cutter, laser cut</laserCutterTags>
