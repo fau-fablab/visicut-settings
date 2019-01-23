@@ -1,0 +1,9 @@
+<material>
+  <engraveColor>#000000</engraveColor>
+  <cutColor>#ff0000</cutColor>
+  <color>#ffffff</color>
+  <name>Leimholz (Fichte)</name>
+  <materialThicknesses>
+    <float>18.0</float>
+  </materialThicknesses>
+</material>

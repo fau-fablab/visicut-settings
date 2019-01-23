@@ -6,5 +6,6 @@
   <materialThicknesses>
     <float>4.0</float>
     <float>9.0</float>
+    <float>18.0</float>
   </materialThicknesses>
 </material>

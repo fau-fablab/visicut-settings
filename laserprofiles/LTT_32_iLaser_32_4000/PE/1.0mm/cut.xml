@@ -1,0 +1,14 @@
+<linked-list>
+  <LaosCutterProperty>
+    <power>100.0</power>
+    <speed>6.0</speed>
+    <focus>0.0</focus>
+    <frequency>500</frequency>
+    <hidePurge>false</hidePurge>
+    <hideVentilation>false</hideVentilation>
+    <hideFocus>false</hideFocus>
+    <hideFrequency>false</hideFrequency>
+    <ventilation>true</ventilation>
+    <purge>true</purge>
+  </LaosCutterProperty>
+</linked-list>

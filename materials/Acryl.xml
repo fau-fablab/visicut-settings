@@ -4,6 +4,7 @@
   <color>#868686</color>
   <name>Acryl</name>
   <materialThicknesses>
+    <float>1.0</float>
     <float>1.5</float>
     <float>2.0</float>
     <float>3.0</float>

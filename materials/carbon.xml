@@ -5,6 +5,9 @@
   <color>#ffffff</color>
   <name>carbon</name>
   <materialThicknesses>
+    <float>0.25</float>
+    <float>0.68</float>
+    <float>1.0</float>
     <float>3.0</float>
   </materialThicknesses>
 </material>

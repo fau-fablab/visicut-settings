@@ -1,0 +1,10 @@
+<material>
+  <description>Polyethylen</description>
+  <engraveColor>#fefefe</engraveColor>
+  <cutColor>#ff0033</cutColor>
+  <color>#868686</color>
+  <name>PE</name>
+  <materialThicknesses>
+    <float>1.0</float>
+  </materialThicknesses>
+</material>

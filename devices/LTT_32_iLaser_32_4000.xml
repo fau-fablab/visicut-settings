@@ -5,7 +5,7 @@ Bitte:
 -Autofokus machen
 -Sicherstellen dass Druckluft an ist
 -Job starten</jobSentText>
-  <jobPrefix>visicut </jobPrefix>
+  <jobPrefix>VC</jobPrefix>
   <laserCutter class="com.t_oster.liblasercut.drivers.LaserToolsTechnicsCutter">
     <supportsFrequency>false</supportsFrequency>
     <supportsFocus>false</supportsFocus>
@@ -27,11 +27,11 @@ Bitte:
     <lengthTolerance>0.1</lengthTolerance>
     <angleToleranceShort>0.6981317007977318</angleToleranceShort>
     <angleToleranceLong>0.17453292519943295</angleToleranceLong>
-    <currentX>3994.0</currentX>
-    <currentY>9720.0</currentY>
-    <currentPower>10.0</currentPower>
-    <currentSpeed>100.0</currentSpeed>
-    <currentFrequency>1000</currentFrequency>
+    <currentX>-1.0</currentX>
+    <currentY>-1.0</currentY>
+    <currentPower>-1.0</currentPower>
+    <currentSpeed>-1.0</currentSpeed>
+    <currentFrequency>-1</currentFrequency>
     <currentFocus>0.0</currentFocus>
     <JOB__MODE__XY>0</JOB__MODE__XY>
     <JOB__MODE__ROTARY__AXIS>16</JOB__MODE__ROTARY__AXIS>
@@ -39,14 +39,7 @@ Bitte:
     <JOB__MODE__4BIT__PER__PIXEL>1</JOB__MODE__4BIT__PER__PIXEL>
     <JOB__MODE__8BIT__PER__PIXEL>2</JOB__MODE__8BIT__PER__PIXEL>
     <JOB__MODE__MASK__BITS__PER__PX>15</JOB__MODE__MASK__BITS__PER__PX>
-    <currentJobMode>0</currentJobMode>
-    <currentVentilation>false</currentVentilation>
-    <currentPurge>false</currentPurge>
-    <resolutions class="java.util.Arrays$ArrayList">
-      <a class="java.lang.Double-array">
-        <double>500.0</double>
-      </a>
-    </resolutions>
+    <currentJobMode>-1</currentJobMode>
     <bedWidth>1000.0</bedWidth>
     <bedHeight>600.0</bedHeight>
     <engraveShiftListDefault>
@@ -95,38 +88,38 @@ Bitte:
     </referencePoints>
     <viewPoints>
       <java.awt.geom.Point2D_-Double>
-        <x>1161.0</x>
-        <y>791.0</y>
+        <x>1162.0</x>
+        <y>800.0</y>
       </java.awt.geom.Point2D_-Double>
       <java.awt.geom.Point2D_-Double>
-        <x>484.0</x>
-        <y>152.0</y>
+        <x>485.0</x>
+        <y>159.0</y>
       </java.awt.geom.Point2D_-Double>
       <java.awt.geom.Point2D_-Double>
         <x>495.0</x>
         <y>797.0</y>
       </java.awt.geom.Point2D_-Double>
       <java.awt.geom.Point2D_-Double>
-        <x>1166.0</x>
-        <y>125.0</y>
+        <x>1164.0</x>
+        <y>139.0</y>
       </java.awt.geom.Point2D_-Double>
     </viewPoints>
     <homography>
       <A>
         <double-array>
-          <double>-6.336171607999397E-4</double>
-          <double>-3.7261319640475425E-5</double>
-          <double>0.8098402761159732</double>
+          <double>-6.308862862503902E-4</double>
+          <double>-3.1052974728979964E-5</double>
+          <double>0.807188044073735</double>
         </double-array>
         <double-array>
-          <double>3.034629884534074E-5</double>
-          <double>-0.0010862552180049025</double>
-          <double>0.5866487905844117</double>
+          <double>2.4555320692553226E-5</double>
+          <double>-0.0010742923744911038</double>
+          <double>0.5902927849736814</double>
         </double-array>
         <double-array>
-          <double>3.074146328351195E-8</double>
-          <double>-3.891926744959502E-8</double>
-          <double>5.830573215378542E-4</double>
+          <double>3.446628050120262E-8</double>
+          <double>-2.9459700363930158E-8</double>
+          <double>5.795028630961295E-4</double>
         </double-array>
       </A>
       <m>3</m>
