@@ -5,5 +5,6 @@
   <name>Filz</name>
   <materialThicknesses>
     <float>3.0</float>
+    <float>5.0</float>
   </materialThicknesses>
 </material>

@@ -27,11 +27,11 @@ Bitte:
     <lengthTolerance>0.1</lengthTolerance>
     <angleToleranceShort>0.6981317007977318</angleToleranceShort>
     <angleToleranceLong>0.17453292519943295</angleToleranceLong>
-    <currentX>-1.0</currentX>
-    <currentY>-1.0</currentY>
-    <currentPower>-1.0</currentPower>
-    <currentSpeed>-1.0</currentSpeed>
-    <currentFrequency>-1</currentFrequency>
+    <currentX>419.18989597667564</currentX>
+    <currentY>1.270663769294809</currentY>
+    <currentPower>100.0</currentPower>
+    <currentSpeed>9.0</currentSpeed>
+    <currentFrequency>1000</currentFrequency>
     <currentFocus>0.0</currentFocus>
     <JOB__MODE__XY>0</JOB__MODE__XY>
     <JOB__MODE__ROTARY__AXIS>16</JOB__MODE__ROTARY__AXIS>
@@ -39,7 +39,14 @@ Bitte:
     <JOB__MODE__4BIT__PER__PIXEL>1</JOB__MODE__4BIT__PER__PIXEL>
     <JOB__MODE__8BIT__PER__PIXEL>2</JOB__MODE__8BIT__PER__PIXEL>
     <JOB__MODE__MASK__BITS__PER__PX>15</JOB__MODE__MASK__BITS__PER__PX>
-    <currentJobMode>-1</currentJobMode>
+    <currentJobMode>0</currentJobMode>
+    <currentVentilation>false</currentVentilation>
+    <currentPurge>false</currentPurge>
+    <resolutions class="java.util.Arrays$ArrayList">
+      <a class="java.lang.Double-array">
+        <double>500.0</double>
+      </a>
+    </resolutions>
     <bedWidth>1000.0</bedWidth>
     <bedHeight>600.0</bedHeight>
     <engraveShiftListDefault>
@@ -88,45 +95,45 @@ Bitte:
     </referencePoints>
     <viewPoints>
       <java.awt.geom.Point2D_-Double>
-        <x>1162.0</x>
-        <y>800.0</y>
+        <x>797.0</x>
+        <y>801.0</y>
       </java.awt.geom.Point2D_-Double>
       <java.awt.geom.Point2D_-Double>
-        <x>485.0</x>
-        <y>159.0</y>
+        <x>2255.0</x>
+        <y>1600.0</y>
       </java.awt.geom.Point2D_-Double>
       <java.awt.geom.Point2D_-Double>
-        <x>495.0</x>
-        <y>797.0</y>
+        <x>2308.0</x>
+        <y>784.0</y>
       </java.awt.geom.Point2D_-Double>
       <java.awt.geom.Point2D_-Double>
-        <x>1164.0</x>
-        <y>139.0</y>
+        <x>860.0</x>
+        <y>1624.0</y>
       </java.awt.geom.Point2D_-Double>
     </viewPoints>
     <homography>
       <A>
         <double-array>
-          <double>-6.308862862503902E-4</double>
-          <double>-3.1052974728979964E-5</double>
-          <double>0.807188044073735</double>
+          <double>-0.004738811546611719</double>
+          <double>-6.932964603505407E-4</double>
+          <double>-0.44391403965269877</double>
         </double-array>
         <double-array>
-          <double>2.4555320692553226E-5</double>
-          <double>-0.0010742923744911038</double>
-          <double>0.5902927849736814</double>
+          <double>2.5745196669534033E-5</double>
+          <double>-0.00492818207868375</double>
+          <double>-0.8960412316906706</double>
         </double-array>
         <double-array>
-          <double>3.446628050120262E-8</double>
-          <double>-2.9459700363930158E-8</double>
-          <double>5.795028630961295E-4</double>
+          <double>-3.4038864013733945E-8</double>
+          <double>-4.2959746157023003E-7</double>
+          <double>-0.0017921699223175417</double>
         </double-array>
       </A>
       <m>3</m>
       <n>3</n>
     </homography>
   </cameraHomography>
-  <cameraURL>http://10.188.64.20:9999/image</cameraURL>
+  <cameraURL>http://brain.fablab.fau.de:8080/image</cameraURL>
   <cameraTiming>0</cameraTiming>
   <projectorTiming>0</projectorTiming>
   <projectorWidth>0</projectorWidth>

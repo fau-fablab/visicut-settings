@@ -4,6 +4,8 @@
   <color>#fefefe</color>
   <name>Finnpappe</name>
   <materialThicknesses>
+    <float>1.0</float>
+    <float>1.5</float>
     <float>2.0</float>
   </materialThicknesses>
 </material>
