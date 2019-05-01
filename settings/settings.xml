@@ -1,20 +1,22 @@
 <visicutPreferences>
   <defaultMapping>schneide rot, graviere Rest, ignoriere blau, markiere gruen</defaultMapping>
-  <disableSandbox>true</disableSandbox>
+  <disableSandbox>false</disableSandbox>
   <useFilenamesForJobs>false</useFilenamesForJobs>
   <labName>FAU FabLab</labName>
   <enableQRCodes>false</enableQRCodes>
   <fastQRCodes>false</fastQRCodes>
   <fabqrActive>false</fabqrActive>
+  <autoUpdateSettingsDisabled>false</autoUpdateSettingsDisabled>
+  <lastAutoUpdateTime>0</lastAutoUpdateTime>
   <useThicknessAsFocusOffset>false</useThicknessAsFocusOffset>
   <recentFiles>
-    <string>/tmp/temp-visicut-otQ4A5/Blossom_Wood_3mm_3.svg</string>
-    <string>/tmp/temp-visicut-NeWCJS/Blossom_Acrylic.svg</string>
-    <string>/tmp/temp-visicut-vJvep5/default.de.svg</string>
-    <string>/tmp/temp-visicut-P12vty/Alles_3mm.svg</string>
-    <string>/tmp/temp-visicut-StA0tW/b_m0d.svg</string>
+    <string>/usr/share/visicut/examples/bendable-material.svg</string>
+    <string>/tmp/temp-visicut-OD7MAF/pe-hd-cuvettes-wide_holder.svg</string>
+    <string>/tmp/temp-visicut-_LwYIv/SPiC Board Case.svg</string>
+    <string>/tmp/temp-visicut-2HtBIM/horizontal_neu.svg</string>
+    <string>/tmp/temp-visicut-n_Qrj8/Herzen Einladung.svg</string>
   </recentFiles>
-  <lastMaterial>Acryl</lastMaterial>
+  <lastMaterial>Sperrholz Birke</lastMaterial>
   <lastLaserDevice>LTT iLaser 4000</lastLaserDevice>
   <availableImporters/>
   <editSettingsBeforeExecuting>false</editSettingsBeforeExecuting>

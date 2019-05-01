@@ -4,6 +4,7 @@
   <color>#fddc9d</color>
   <name>Balsaholz</name>
   <materialThicknesses>
+    <float>1.0</float>
     <float>2.0</float>
     <float>5.0</float>
   </materialThicknesses>
