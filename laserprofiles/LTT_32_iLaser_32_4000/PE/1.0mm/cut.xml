@@ -4,10 +4,10 @@
     <speed>6.0</speed>
     <focus>0.0</focus>
     <frequency>500</frequency>
-    <hidePurge>false</hidePurge>
-    <hideVentilation>false</hideVentilation>
-    <hideFocus>false</hideFocus>
-    <hideFrequency>false</hideFrequency>
+    <hidePurge>true</hidePurge>
+    <hideVentilation>true</hideVentilation>
+    <hideFocus>true</hideFocus>
+    <hideFrequency>true</hideFrequency>
     <ventilation>true</ventilation>
     <purge>true</purge>
   </LaosCutterProperty>
