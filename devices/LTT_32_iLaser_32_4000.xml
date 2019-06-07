@@ -23,37 +23,8 @@ Bitte:
     <port>9100</port>
     <maxDPI>4000.0</maxDPI>
     <maxEngraveDPI>1000.0</maxEngraveDPI>
-    <laserOn>false</laserOn>
-    <lengthTolerance>0.1</lengthTolerance>
-    <angleToleranceShort>0.6981317007977318</angleToleranceShort>
-    <angleToleranceLong>0.17453292519943295</angleToleranceLong>
-    <currentX>-1.0</currentX>
-    <currentY>-1.0</currentY>
-    <currentPower>-1.0</currentPower>
-    <currentSpeed>-1.0</currentSpeed>
-    <currentFrequency>-1</currentFrequency>
-    <currentFocus>0.0</currentFocus>
-    <JOB__MODE__XY>0</JOB__MODE__XY>
-    <JOB__MODE__ROTARY__AXIS>16</JOB__MODE__ROTARY__AXIS>
-    <JOB__MODE__1BIT__PER__PIXEL>0</JOB__MODE__1BIT__PER__PIXEL>
-    <JOB__MODE__4BIT__PER__PIXEL>1</JOB__MODE__4BIT__PER__PIXEL>
-    <JOB__MODE__8BIT__PER__PIXEL>2</JOB__MODE__8BIT__PER__PIXEL>
-    <JOB__MODE__MASK__BITS__PER__PX>15</JOB__MODE__MASK__BITS__PER__PX>
-    <currentJobMode>-1</currentJobMode>
     <bedWidth>1000.0</bedWidth>
     <bedHeight>600.0</bedHeight>
-    <engraveShiftListDefault>
-      <int>-2</int>
-      <int>-4</int>
-      <int>-7</int>
-      <int>-10</int>
-      <int>-13</int>
-      <int>-15</int>
-      <int>-17</int>
-      <int>-19</int>
-      <int>-21</int>
-      <int>-23</int>
-    </engraveShiftListDefault>
     <engraveShiftList>
       <int>-2</int>
       <int>-4</int>
