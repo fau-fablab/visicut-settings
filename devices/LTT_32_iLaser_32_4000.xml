@@ -59,38 +59,38 @@ Bitte:
     </referencePoints>
     <viewPoints>
       <java.awt.geom.Point2D_-Double>
-        <x>973.0</x>
-        <y>516.0</y>
+        <x>972.0</x>
+        <y>515.0</y>
       </java.awt.geom.Point2D_-Double>
       <java.awt.geom.Point2D_-Double>
-        <x>2129.0</x>
-        <y>1632.0</y>
+        <x>2131.0</x>
+        <y>1639.0</y>
       </java.awt.geom.Point2D_-Double>
       <java.awt.geom.Point2D_-Double>
         <x>2126.0</x>
-        <y>541.0</y>
+        <y>546.0</y>
       </java.awt.geom.Point2D_-Double>
       <java.awt.geom.Point2D_-Double>
-        <x>967.0</x>
-        <y>1673.0</y>
+        <x>966.0</x>
+        <y>1675.0</y>
       </java.awt.geom.Point2D_-Double>
     </viewPoints>
     <homography>
       <A>
         <double-array>
-          <double>-0.00379508079699483</double>
-          <double>6.735040231687319E-5</double>
-          <double>-0.9786528829458504</double>
+          <double>-0.003816107653000401</double>
+          <double>7.617418290888382E-5</double>
+          <double>-0.9796995234886702</double>
         </double-array>
         <double-array>
-          <double>-1.705505051426977E-4</double>
-          <double>-0.005647683973292422</double>
-          <double>-0.2053999793446234</double>
+          <double>-1.9114046890979068E-4</double>
+          <double>-0.005667022235796609</double>
+          <double>-0.2003473226168281</double>
         </double-array>
         <double-array>
-          <double>-1.7834491857264795E-7</double>
-          <double>3.901141743721389E-8</double>
-          <double>-0.0017465940863446935</double>
+          <double>-1.8128456587770383E-7</double>
+          <double>4.8080168038606854E-8</double>
+          <double>-0.0017532371433484034</double>
         </double-array>
       </A>
       <m>3</m>
