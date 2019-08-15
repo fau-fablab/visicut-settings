@@ -15,6 +15,7 @@ Bitte:
     <addSpacePerRasterLineMaximum>35.0</addSpacePerRasterLineMaximum>
     <addSpacePerRasterLineMinimum>3.5</addSpacePerRasterLineMinimum>
     <useTangentCurves>true</useTangentCurves>
+    <laserArcCompensationEnabled>true</laserArcCompensationEnabled>
     <tangentCurveMaxAcceleration>2000.0</tangentCurveMaxAcceleration>
     <nominalCuttingSpeed>338.677</nominalCuttingSpeed>
     <flipXaxis>false</flipXaxis>
