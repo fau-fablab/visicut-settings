@@ -5,7 +5,7 @@
   <color>#ffffff</color>
   <name>Sperrholz Pappel</name>
   <materialThicknesses>
-    <float>3.6</float>
     <float>4.0</float>
+    <float>8.0</float>
   </materialThicknesses>
 </material>

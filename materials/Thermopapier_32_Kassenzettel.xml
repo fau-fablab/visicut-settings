@@ -2,12 +2,8 @@
   <engraveColor>#000000</engraveColor>
   <cutColor>#ff0033</cutColor>
   <color>#ffffff</color>
-  <name>Holz Kiefer</name>
+  <name>Thermopapier Kassenzettel</name>
   <materialThicknesses>
-    <float>3.0</float>
-    <float>4.0</float>
-    <float>10.0</float>
-    <float>14.0</float>
-    <float>18.0</float>
+    <float>0.0</float>
   </materialThicknesses>
 </material>

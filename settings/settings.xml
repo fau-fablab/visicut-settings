@@ -1,7 +1,7 @@
 <visicutPreferences>
   <defaultMapping>schneide rot, graviere Rest, ignoriere blau, markiere gruen</defaultMapping>
   <disableSandbox>false</disableSandbox>
-  <useFilenamesForJobs>false</useFilenamesForJobs>
+  <useFilenamesForJobs>true</useFilenamesForJobs>
   <labName>FAU FabLab</labName>
   <enableQRCodes>false</enableQRCodes>
   <fastQRCodes>false</fastQRCodes>
@@ -10,13 +10,8 @@
   <lastAutoUpdateTime>0</lastAutoUpdateTime>
   <useThicknessAsFocusOffset>false</useThicknessAsFocusOffset>
   <recentFiles>
-    <string>/usr/share/visicut/examples/bendable-material.svg</string>
-    <string>/tmp/temp-visicut-OD7MAF/pe-hd-cuvettes-wide_holder.svg</string>
-    <string>/tmp/temp-visicut-_LwYIv/SPiC Board Case.svg</string>
-    <string>/tmp/temp-visicut-2HtBIM/horizontal_neu.svg</string>
-    <string>/tmp/temp-visicut-n_Qrj8/Herzen Einladung.svg</string>
   </recentFiles>
-  <lastMaterial>Sperrholz Birke</lastMaterial>
+  <lastMaterial>Holz Kiefer</lastMaterial>
   <lastLaserDevice>LTT iLaser 4000</lastLaserDevice>
   <availableImporters/>
   <editSettingsBeforeExecuting>false</editSettingsBeforeExecuting>

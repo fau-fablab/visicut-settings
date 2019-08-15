@@ -24,6 +24,13 @@ Bitte:
     <port>9100</port>
     <maxDPI>4000.0</maxDPI>
     <maxEngraveDPI>1000.0</maxEngraveDPI>
+    <currentVentilation>false</currentVentilation>
+    <currentPurge>false</currentPurge>
+    <resolutions class="java.util.Arrays$ArrayList">
+      <a class="java.lang.Double-array">
+        <double>500.0</double>
+      </a>
+    </resolutions>
     <bedWidth>1000.0</bedWidth>
     <bedHeight>600.0</bedHeight>
     <engraveShiftList>

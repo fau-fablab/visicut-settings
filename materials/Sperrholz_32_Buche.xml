@@ -4,6 +4,7 @@
   <color>#ffffff</color>
   <name>Sperrholz Buche</name>
   <materialThicknesses>
+    <float>3.0</float>
     <float>6.0</float>
   </materialThicknesses>
 </material>

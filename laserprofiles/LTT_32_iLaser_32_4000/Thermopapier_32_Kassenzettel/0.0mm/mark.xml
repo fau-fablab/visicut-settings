@@ -1,6 +1,6 @@
 <linked-list>
   <LaosCutterProperty>
-    <power>5.0</power>
+    <power>0.01</power>
     <speed>100.0</speed>
     <focus>0.0</focus>
     <frequency>500</frequency>
