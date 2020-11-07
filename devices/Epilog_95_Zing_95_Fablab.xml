@@ -1,12 +1,14 @@
-<laserDevice>
+<?xml version="1.0" encoding="UTF-8"?>
+
+<laserDevice version="0">
   <originBottomLeft>false</originBottomLeft>
-  <jobSentText>Job was sent as &apos;$jobname&apos;
+  <jobSentText>Job was sent as '$jobname'
 Please:
 -Close the lid
 -Turn on the Ventilation
--And press &apos;start&apos; on the Lasercutter $name</jobSentText>
+-And press 'start' on the Lasercutter $name</jobSentText>
   <jobPrefix>VC</jobPrefix>
-  <laserCutter class="com.t_oster.liblasercut.drivers.EpilogZing">
+  <laserCutter class="de.thomas_oster.liblasercut.drivers.EpilogZing">
     <hostname>lasercutter.lab.fablab.uni-erlangen.de</hostname>
     <port>515</port>
     <autofocus>false</autofocus>

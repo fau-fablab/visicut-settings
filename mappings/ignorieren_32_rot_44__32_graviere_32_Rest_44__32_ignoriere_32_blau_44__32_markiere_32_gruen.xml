@@ -1,4 +1,6 @@
-<com.t__oster.visicut.model.mapping.MappingSet serialization="custom">
+<?xml version="1.0" encoding="UTF-8"?>
+
+<de.thomas__oster.visicut.model.mapping.MappingSet serialization="custom" version="0.0.0.0.0">
   <unserializable-parents/>
   <linked-list>
     <default/>
@@ -35,7 +37,7 @@
         <name>engrave</name>
         <invertColors>false</invertColors>
         <colorShift>0</colorShift>
-        <ditherAlgorithm class="com.t_oster.liblasercut.dithering.FloydSteinberg">
+        <ditherAlgorithm class="de.thomas_oster.liblasercut.dithering.FloydSteinberg">
           <progress>99</progress>
         </ditherAlgorithm>
       </b>
@@ -100,10 +102,10 @@
       </a>
     </mapping>
   </linked-list>
-  <com.t__oster.visicut.model.mapping.MappingSet>
+  <de.thomas__oster.visicut.model.mapping.MappingSet>
     <default>
       <description>A new created mapping</description>
       <name>ignorieren rot, graviere Rest, ignoriere blau, markiere gruen</name>
     </default>
-  </com.t__oster.visicut.model.mapping.MappingSet>
-</com.t__oster.visicut.model.mapping.MappingSet>
+  </de.thomas__oster.visicut.model.mapping.MappingSet>
+</de.thomas__oster.visicut.model.mapping.MappingSet>

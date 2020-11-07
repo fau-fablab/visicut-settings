@@ -1,4 +1,6 @@
-<visicutPreferences>
+<?xml version="1.0" encoding="UTF-8"?>
+
+<visicutPreferences version="0">
   <defaultMapping>schneide rot, graviere Rest, ignoriere blau, markiere gruen</defaultMapping>
   <disableSandbox>false</disableSandbox>
   <useFilenamesForJobs>true</useFilenamesForJobs>
@@ -9,10 +11,6 @@
   <autoUpdateSettingsDisabled>false</autoUpdateSettingsDisabled>
   <lastAutoUpdateTime>0</lastAutoUpdateTime>
   <useThicknessAsFocusOffset>false</useThicknessAsFocusOffset>
-  <recentFiles>
-  </recentFiles>
-  <lastMaterial>Holz Kiefer</lastMaterial>
-  <lastLaserDevice>LTT iLaser 4000</lastLaserDevice>
   <availableImporters/>
   <editSettingsBeforeExecuting>false</editSettingsBeforeExecuting>
   <laserCutterTags>lasercutter, lasercut, laser cutter, laser cut</laserCutterTags>
