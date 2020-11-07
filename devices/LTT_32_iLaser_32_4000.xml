@@ -1,16 +1,19 @@
-<laserDevice>
+<?xml version="1.0" encoding="UTF-8"?>
+
+<laserDevice version="0">
   <originBottomLeft>false</originBottomLeft>
-  <jobSentText>Job gesendet als&apos;$jobname&apos;
+  <jobSentText>Job gesendet als'$jobname'
 Bitte:
 -Autofokus machen
 -Sicherstellen dass Druckluft an ist
 -Job starten</jobSentText>
   <jobPrefix>VC</jobPrefix>
-  <laserCutter class="com.t_oster.liblasercut.drivers.LaserToolsTechnicsCutter">
+  <laserCutter class="de.thomas_oster.liblasercut.drivers.LaserToolsTechnicsCutter">
     <supportsFrequency>false</supportsFrequency>
     <supportsFocus>false</supportsFocus>
     <supportsPurge>false</supportsPurge>
     <supportsVentilation>false</supportsVentilation>
+    <rotaryAxisSupported>true</rotaryAxisSupported>
     <debugFilename></debugFilename>
     <addSpacePerRasterLineMaximum>35.0</addSpacePerRasterLineMaximum>
     <addSpacePerRasterLineMinimum>3.5</addSpacePerRasterLineMinimum>
@@ -18,19 +21,10 @@ Bitte:
     <laserArcCompensationEnabled>true</laserArcCompensationEnabled>
     <tangentCurveMaxAcceleration>2000.0</tangentCurveMaxAcceleration>
     <nominalCuttingSpeed>338.677</nominalCuttingSpeed>
-    <flipXaxis>false</flipXaxis>
-    <flipYaxis>true</flipYaxis>
     <hostname>lasercutter2</hostname>
     <port>9100</port>
     <maxDPI>4000.0</maxDPI>
     <maxEngraveDPI>1000.0</maxEngraveDPI>
-    <currentVentilation>false</currentVentilation>
-    <currentPurge>false</currentPurge>
-    <resolutions class="java.util.Arrays$ArrayList">
-      <a class="java.lang.Double-array">
-        <double>500.0</double>
-      </a>
-    </resolutions>
     <bedWidth>1000.0</bedWidth>
     <bedHeight>600.0</bedHeight>
     <engraveShiftList>
