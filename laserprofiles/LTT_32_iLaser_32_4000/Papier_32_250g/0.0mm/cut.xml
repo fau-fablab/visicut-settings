@@ -1,4 +1,6 @@
-<linked-list>
+<?xml version="1.0" encoding="UTF-8"?>
+
+<linked-list version="0.0.0.0">
   <LaosCutterProperty>
     <power>35.0</power>
     <speed>100.0</speed>

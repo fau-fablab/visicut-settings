@@ -1,8 +1,10 @@
-<vectorProfile>
+<?xml version="1.0" encoding="UTF-8"?>
+
+<vectorProfile version="0.0">
   <DPI>500.0</DPI>
   <description>Durchschneiden</description>
   <name>cut</name>
-  <orderStrategy>INNER_FIRST</orderStrategy>
+  <orderStrategy>NEAREST</orderStrategy>
   <useOutline>false</useOutline>
   <isCut>true</isCut>
   <width>0.5</width>
