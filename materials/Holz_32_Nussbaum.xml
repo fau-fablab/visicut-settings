@@ -1,9 +1,12 @@
-<material>
+<?xml version="1.0" encoding="UTF-8"?>
+
+<material version="0">
   <engraveColor>#000000</engraveColor>
   <cutColor>#ff0033</cutColor>
   <color>#ffffff</color>
   <name>Holz Nussbaum</name>
   <materialThicknesses>
+    <float>2.4</float>
     <float>4.0</float>
     <float>5.0</float>
   </materialThicknesses>
