@@ -25,6 +25,14 @@ Bitte:
     <port>9100</port>
     <maxDPI>4000.0</maxDPI>
     <maxEngraveDPI>1000.0</maxEngraveDPI>
+    <COORDINATE__IS__RAW>0.0</COORDINATE__IS__RAW>
+    <currentVentilation>false</currentVentilation>
+    <currentPurge>false</currentPurge>
+    <resolutions class="java.util.Arrays$ArrayList">
+      <a class="java.lang.Double-array">
+        <double>500.0</double>
+      </a>
+    </resolutions>
     <bedWidth>1000.0</bedWidth>
     <bedHeight>600.0</bedHeight>
     <engraveShiftList>
@@ -61,38 +69,38 @@ Bitte:
     </referencePoints>
     <viewPoints>
       <java.awt.geom.Point2D_-Double>
-        <x>972.0</x>
-        <y>515.0</y>
+        <x>983.0</x>
+        <y>517.0</y>
       </java.awt.geom.Point2D_-Double>
       <java.awt.geom.Point2D_-Double>
-        <x>2131.0</x>
-        <y>1639.0</y>
+        <x>2134.0</x>
+        <y>1635.0</y>
       </java.awt.geom.Point2D_-Double>
       <java.awt.geom.Point2D_-Double>
-        <x>2126.0</x>
-        <y>546.0</y>
+        <x>2132.0</x>
+        <y>550.0</y>
       </java.awt.geom.Point2D_-Double>
       <java.awt.geom.Point2D_-Double>
-        <x>966.0</x>
-        <y>1675.0</y>
+        <x>975.0</x>
+        <y>1668.0</y>
       </java.awt.geom.Point2D_-Double>
     </viewPoints>
     <homography>
       <A>
         <double-array>
-          <double>-0.003816107653000401</double>
-          <double>7.617418290888382E-5</double>
-          <double>-0.9796995234886702</double>
+          <double>-0.0037090119734081</double>
+          <double>7.987214685298033E-5</double>
+          <double>-0.9793363155741946</double>
         </double-array>
         <double-array>
-          <double>-1.9114046890979068E-4</double>
-          <double>-0.005667022235796609</double>
-          <double>-0.2003473226168281</double>
+          <double>-1.924269073695862E-4</double>
+          <double>-0.005496405981178197</double>
+          <double>-0.20212234556150793</double>
         </double-array>
         <double-array>
-          <double>-1.8128456587770383E-7</double>
-          <double>4.8080168038606854E-8</double>
-          <double>-0.0017532371433484034</double>
+          <double>-1.7575173783135622E-7</double>
+          <double>4.2235736598535765E-8</double>
+          <double>-0.0017110716057624437</double>
         </double-array>
       </A>
       <m>3</m>
