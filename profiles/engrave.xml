@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <rasterProfile version="0.0">
-  <DPI>4000.0</DPI>
+  <DPI>500.0</DPI>
   <description>A new Laserprofile</description>
   <name>engrave</name>
   <invertColors>false</invertColors>
