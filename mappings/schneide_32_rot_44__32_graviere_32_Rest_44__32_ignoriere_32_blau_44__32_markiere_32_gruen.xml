@@ -102,7 +102,7 @@
       </a>
       <b class="vectorProfile">
         <DPI>500.0</DPI>
-        <description>Cut through the material</description>
+        <description>Durchschneiden</description>
         <name>cut</name>
         <orderStrategy>INNER_FIRST</orderStrategy>
         <useOutline>false</useOutline>
