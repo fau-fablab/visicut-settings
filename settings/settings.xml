@@ -11,8 +11,4 @@
   <autoUpdateSettingsDisabled>false</autoUpdateSettingsDisabled>
   <lastAutoUpdateTime>0</lastAutoUpdateTime>
   <useThicknessAsFocusOffset>false</useThicknessAsFocusOffset>
-  <availableImporters/>
-  <editSettingsBeforeExecuting>false</editSettingsBeforeExecuting>
-  <laserCutterTags>lasercutter, lasercut, laser cutter, laser cut</laserCutterTags>
-  <supportedExtensions>svg, plf, dxf, eps, gcode</supportedExtensions>
 </visicutPreferences>
