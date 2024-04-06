@@ -1,4 +1,6 @@
-<material>
+<?xml version="1.0" encoding="UTF-8"?>
+
+<material version="0">
   <engraveColor>#000000</engraveColor>
   <cutColor>#ff0033</cutColor>
   <color>#ffffff</color>
@@ -6,5 +8,6 @@
   <materialThicknesses>
     <float>2.0</float>
     <float>3.0</float>
+    <float>6.0</float>
   </materialThicknesses>
 </material>
