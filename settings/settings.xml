@@ -4,10 +4,14 @@
   <defaultMapping>schneide rot, graviere Rest, ignoriere blau, markiere gruen</defaultMapping>
   <disableSandbox>false</disableSandbox>
   <useFilenamesForJobs>true</useFilenamesForJobs>
-  <labName>FAU FabLab</labName>
+  <labName>unknown lab</labName>
   <enableQRCodes>false</enableQRCodes>
   <fastQRCodes>false</fastQRCodes>
   <fabqrActive>false</fabqrActive>
+  <fabqrPrivateURL></fabqrPrivateURL>
+  <fabqrPublicURL></fabqrPublicURL>
+  <fabqrPrivateUser></fabqrPrivateUser>
+  <fabqrPrivatePassword></fabqrPrivatePassword>
   <autoUpdateSettingsDisabled>false</autoUpdateSettingsDisabled>
   <lastAutoUpdateTime>0</lastAutoUpdateTime>
   <useThicknessAsFocusOffset>false</useThicknessAsFocusOffset>
