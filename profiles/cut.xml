@@ -4,7 +4,7 @@
   <DPI>500.0</DPI>
   <description>Durchschneiden</description>
   <name>cut</name>
-  <orderStrategy>NEAREST</orderStrategy>
+  <orderStrategy>INNER_FIRST</orderStrategy>
   <useOutline>false</useOutline>
   <isCut>true</isCut>
   <width>0.5</width>
