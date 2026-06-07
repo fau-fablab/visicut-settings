@@ -76,46 +76,46 @@ Bitte:
     </referencePoints>
     <viewPoints>
       <java.awt.geom.Point2D_-Double>
-        <x>951.0</x>
-        <y>627.0</y>
+        <x>910.0</x>
+        <y>626.0</y>
       </java.awt.geom.Point2D_-Double>
       <java.awt.geom.Point2D_-Double>
-        <x>2025.0</x>
-        <y>1673.0</y>
+        <x>1994.0</x>
+        <y>1759.0</y>
       </java.awt.geom.Point2D_-Double>
       <java.awt.geom.Point2D_-Double>
-        <x>2022.0</x>
-        <y>614.0</y>
+        <x>1987.0</x>
+        <y>612.0</y>
       </java.awt.geom.Point2D_-Double>
       <java.awt.geom.Point2D_-Double>
-        <x>947.0</x>
-        <y>1656.0</y>
+        <x>913.0</x>
+        <y>1682.0</y>
       </java.awt.geom.Point2D_-Double>
       <java.awt.geom.Point2D_-Double>
-        <x>1478.0</x>
-        <y>621.0</y>
+        <x>1426.0</x>
+        <y>618.0</y>
       </java.awt.geom.Point2D_-Double>
       <java.awt.geom.Point2D_-Double>
-        <x>1479.0</x>
-        <y>1658.0</y>
+        <x>1431.0</x>
+        <y>1720.0</y>
       </java.awt.geom.Point2D_-Double>
     </viewPoints>
     <homography>
       <A>
         <double-array>
-          <double>-0.002465506466334102</double>
-          <double>4.015808182456724E-5</double>
-          <double>-0.899795696769612</double>
+          <double>-0.002279943143889108</double>
+          <double>-5.653216852574587E-7</double>
+          <double>-0.8977332688859805</double>
         </double-array>
         <double-array>
-          <double>7.445550409393272E-5</double>
-          <double>-0.004118645234986235</double>
-          <double>-0.43628256171613283</double>
+          <double>1.552885058779451E-4</double>
+          <double>-0.004344847074525539</double>
+          <double>-0.4405094107842953</double>
         </double-array>
         <double-array>
-          <double>6.921692681223796E-8</double>
-          <double>2.6922308722440178E-8</double>
-          <double>-0.0014769225745498392</double>
+          <double>1.966192053363422E-7</double>
+          <double>1.3178101972094041E-8</double>
+          <double>-0.0015287230114782674</double>
         </double-array>
       </A>
       <m>3</m>
